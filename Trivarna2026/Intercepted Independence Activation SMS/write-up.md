@@ -125,6 +125,8 @@ Plaintext
 
 ### CyberChef Recipe
 
+![CyberChef](screenshot/CyberChef.png)
+
 1. Add **Vigenère Decode**
    - Key: `JIOKEY`
 
