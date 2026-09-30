@@ -11,6 +11,7 @@
 ---
 
 ## Challenge Description
+![Username Investigation](screenshots/1-Challenge%20Description.png)
 
 The challenge provided a single clue:
 
@@ -54,7 +55,7 @@ On the webpage, I found:
 
 ### Screenshot
 
-![Challenge Website](screenshots/challenge-website.png)
+![Challenge Website](screenshots/3-challenge-website.png)
 
 ---
 
@@ -73,7 +74,7 @@ according to the specified flag format.
 
 ### Screenshot
 
-![Challenge Image](screenshots/challenge-image.png)
+![Challenge Image](screenshots/4-challenge-image.png)
 
 ---
 
@@ -85,7 +86,7 @@ The search results matched records available on the National Investigation Agenc
 
 ### Screenshot
 
-![NIA Record](screenshots/nia-record.png)
+![NIA Record](screenshots/5-nia-record.png)
 
 ---
 
