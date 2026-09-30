@@ -38,7 +38,7 @@ intitle:tri2026varna
 
 ### Screenshot
 
-![Username Investigation](screenshots/username-investigation.png)
+![Username Investigation](screenshots/2-username-investigation.png)
 
 ---
 
