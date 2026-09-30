@@ -14,6 +14,8 @@
 
 ## Challenge Description
 
+![Challenge Description](screenshot/Challenge%20Description.png)
+
 The challenge simulates a telecom security investigation during an Independence Day cyber defence exercise.
 
 A suspicious SMS activation message was intercepted inside a simulated Jio SMS Gateway environment. The challenge provides two forensic artifacts:
@@ -42,6 +44,8 @@ This file contains SMS routing logs and intercepted message data.
 ## Step 1 – Analyze the Configuration File
 
 I first opened the `gsm_7bit_intercept.conf` file and searched for anything unusual.
+
+![gsm_7bit_intercept](screenshot/gsm_7bit_intercept.png)
 
 The following section immediately stood out:
 
@@ -73,6 +77,8 @@ This tells us:
 ## Step 2 – Search the Routing Log
 
 Using the recovered MSISDN, I searched inside `sms_gateway_routing.txt`.
+
+![sms_gateway_routing](screenshot/sms_gateway_routing.png)
 
 The following log entry was found:
 
